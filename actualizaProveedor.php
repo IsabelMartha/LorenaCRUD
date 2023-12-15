@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1>Actualizar Teléfono de Proveedor</h1>
-    <form action="actualizar.php" method="post">
+    <form action="actualizarPeroveedor.php" method="post">
         <label for="idProveedor">ID Proveedor:</label><br>
         <input type="text" id="idProveedor" name="idProveedor"><br>
 

@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1>Formulario de Proveedor</h1>
-    <form action="insertar.php" method="post">
+    <form action="insertarProveedor.php" method="post">
         <label for="idProveedor">ID Proveedor:</label><br>
         <input type="text" id="idProveedor" name="idProveedor"><br>
 
